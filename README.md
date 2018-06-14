@@ -1,2 +1,2 @@
 # NODEJS
-for testing the Git
+node.js and mysql
